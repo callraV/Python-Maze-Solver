@@ -1,4 +1,4 @@
-Maze Clearing with A*Search Algorithm
+## Maze Clearing with A*Search Algorithm
 
 This Python code implements a Maze Solver using the A* algorithm. The solver navigates through a maze and finds the shortest path to visit all rooms with rubbish while obeying weight and size limitations for rubbish collection. The code can be executed using the following steps:
 
